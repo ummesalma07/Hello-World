@@ -1,2 +1,2 @@
 # Hello-World
-code about hello world
+code about hello world using ruby language.
