@@ -14,5 +14,5 @@ def palindrome?(string)
       return false
     end
   end
-puts reverse_string("sos")
-puts palindrome?("sos")
+puts reverse_string("hello")
+puts palindrome?("hello")
